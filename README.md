@@ -12,10 +12,7 @@ Project created for Website Learners - Jr Fullstack Developer role.
 
 Project Installation and build
 
-```bash
-  // navigate to the project directory
-  cd wlflix
-  
+```bash 
   // install dependecies
   npm install
 
