@@ -1,4 +1,4 @@
-import imageNotFound from "../assets/image-not-found.webp"
+import imageNotFound from "../assets/image-not-found.jpg"
 export default function MovieCard(props) {
   const { title, image, year } = props;
   return (
